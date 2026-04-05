@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 ChatterSphere - Gemini AI PDF Chatbot
 
 ChatterSphere is a modern React-based chatbot UI built with TypeScript and Tailwind CSS that integrates with **Google's Gemini API**. It allows users to upload PDF files and chat contextually based on the uploaded document.
@@ -69,3 +70,6 @@ ChatterSphere is a modern React-based chatbot UI built with TypeScript and Tailw
   - step: Open the app in browser
     ```bash
     url: http://localhost:3000
+=======
+# ChatterSphere
+>>>>>>> a56b6b161b62617993f45c26e562c0b6e15f4615

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l src/components/ui/*.tsx)",
+      "Read(//Users/harshkaptan/Downloads/Internship 8th Sem/Task 2 Intern infobyte Clg /**)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
